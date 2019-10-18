@@ -1,0 +1,11 @@
+C:\Users\Obaida\source\repos\Form1\Form1\obj\Debug\Form1.vbprojAssemblyReference.cache
+C:\Users\Obaida\source\repos\Form1\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\Obaida\source\repos\Form1\Form1\obj\Debug\Form1.Resources.resources
+C:\Users\Obaida\source\repos\Form1\Form1\obj\Debug\Form1.vbproj.GenerateResource.cache
+C:\Users\Obaida\source\repos\Form1\Form1\bin\Debug\Form1.exe.config
+C:\Users\Obaida\source\repos\Form1\Form1\bin\Debug\Form1.exe
+C:\Users\Obaida\source\repos\Form1\Form1\bin\Debug\Form1.pdb
+C:\Users\Obaida\source\repos\Form1\Form1\bin\Debug\Form1.xml
+C:\Users\Obaida\source\repos\Form1\Form1\obj\Debug\Form1.exe
+C:\Users\Obaida\source\repos\Form1\Form1\obj\Debug\Form1.xml
+C:\Users\Obaida\source\repos\Form1\Form1\obj\Debug\Form1.pdb
