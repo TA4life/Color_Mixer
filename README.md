@@ -1,14 +1,14 @@
 # Color Mixer 
-Simple VB.net program. This proram allows to the user to combine the prime colors to create any color they want. This is more of a visual aid program designed to explain and show to the user how one can mix prime colors to create new colors. This is done with the help of 3 circles each representing a prime color.\n
+Simple VB.net program. This proram allows to the user to combine the prime colors to create any color they want. This is more of a visual aid program designed to explain and show to the user how one can mix prime colors to create new colors. This is done with the help of 3 circles each representing a prime color.
 
-###Upcoming\n
+###Upcoming
 
--Binary name for all colors\n
+-Binary name for all colors
 
--Hexdecimal names for all colors\n
+-Hexdecimal names for all colors
 
--How colors get their hex name visual explanation \n
+-How colors get their hex name visual explanation 
 
-###Prerequisites \n
+###Prerequisites 
 
 -You will require Visual Studios 2019 (community or any other version)
